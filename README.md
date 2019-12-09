@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##View the Live Site!
+## View the Live Site!
 https://flip-the-switch.netlify.com/
 
 ## Available Scripts
